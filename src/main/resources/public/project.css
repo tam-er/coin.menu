@@ -1,0 +1,30 @@
+.btn-justified-ic {
+    display: table;
+    width: 93%;
+    table-layout: fixed;
+    border-collapse: separate;
+}
+
+.btn-justified-ic-tgl {
+    display: table;
+    width: 7%;
+    table-layout: fixed;
+    border-collapse: separate;
+}
+
+.navbar-default {
+    margin-bottom:0;
+}
+
+.nav-logo {
+    width: 60px;
+    height: 30px;
+}
+
+.well {
+    color: darkorange;
+    font-size: large;
+}
+
+#progress{
+}
